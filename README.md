@@ -10,7 +10,7 @@
   <a href="https://github.com/Mtspx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTspx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtspx&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</a>
 <div styke="align_itens:center">
   <h2>Linguagens</h2>
 <div style="display: inline_block"><br>
