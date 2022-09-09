@@ -1,11 +1,10 @@
 ### Mateus Paixão 👋
 
 
-- 🧑 Mateus Antônio Paixao de Araújo
-- 🌪  21 Anos 
-- 👨‍💻 Trabalhando atualmente com desenvolvimento Full-Stack 
-- 📚 Estou participando do Bootcamp do Santader Trilha Full-Stack (HTML5, CSS3, JavaScript, ReactJs, Angular, Java, Spring Framework
-- 📩 Email para contato: mateuss98.ma@gmail.com
+- 🧑 Mateus Antônio Paixao de Araújo 
+- 🌪  21 Anos / 21 years
+- 👨‍💻 Trabalhando atualmente com desenvolvimento Full-Stack / I working now with Full-Stack development
+- 📩 Email para contato: mateuss98.ma@gmail.com / How you reach me: mateuss98.ma@gmail.com
 
 <div align="center">
   <a href="https://github.com/Mtspx">
