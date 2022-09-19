@@ -3,7 +3,7 @@
 
 - 🧑 Mateus Antônio Paixao de Araújo 
 - 🌪  21 Anos / 21 years
-- 👨‍💻 Trabalhando atualmente com desenvolvimento Full-Stack / I working now with Full-Stack development
+- 👨‍💻 Trabalhando atualmente com desenvolvimento Full-Stack / Currently working with Full-Stack development
 - 📩 Email para contato: mateuss98.ma@gmail.com / How you reach me: mateuss98.ma@gmail.com
 
 <div align="center">
